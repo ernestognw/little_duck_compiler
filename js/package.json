@@ -1,0 +1,15 @@
+{
+  "name": "little_duck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js ../tests/test1.duck ../tests/test2.duck ../tests/test5.duck"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jison": "^0.4.18"
+  }
+}
