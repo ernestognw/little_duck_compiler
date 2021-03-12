@@ -1,0 +1,22 @@
+program test2;
+
+var integer:int; float1, float2, float3:float; 
+
+{
+	integer = 10;
+	float2 = 3004.2;
+
+	if(integer > 9) {
+		print("integer");
+	};
+
+	if(integer < 11) {
+		float3 = 3.1416 * 10;
+	};
+	
+	if(integer <> 123) {
+		float3 = -30.2 / 10.1;
+	} else {
+		print(float1);
+	};
+}

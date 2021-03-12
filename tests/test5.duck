@@ -1,0 +1,12 @@
+program test5;
+
+var integer:int; float1, float2, float3:float; 
+
+{
+	integer = 10;
+	float2 = 3004.2;
+
+	if(integer > 9) {
+		print("integer");
+	};
+}
