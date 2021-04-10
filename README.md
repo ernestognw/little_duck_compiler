@@ -1,6 +1,6 @@
 ## Proyecto de compiladores en equipo  Languaje Team ++ 
 
-# Semana # 1 "5-11" Diciembre:
+### Semana # 1 "5-11" Diciembre:
 
 * 1 definición de lexico con los tokens 
 
